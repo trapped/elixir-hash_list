@@ -2,6 +2,7 @@ HashList
 ========
 
 Unordered, managed/unique/reusable/integer-based index key-value storage for Elixir.
+Don't mind the name.
 
 ###Just `push/2` your data
 
